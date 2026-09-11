@@ -2,7 +2,6 @@
 
 This project uses the Online Retail dataset from the UCI Machine Learning Repository.
 
-Download it here:
 
 https://archive.ics.uci.edu/dataset/352/online+retail
 
