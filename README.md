@@ -69,17 +69,3 @@ The dataset is not included in this repository because the file is too large. To
 ## Limitations
 
 December 2011 only contains nine days of transactions, so it cannot be directly compared with the complete months. Also, 14.74% of product revenue does not have a customer ID and was excluded from the customer analysis.
-
-## How to Run
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Then run:
-
-```bash
-python Notebook/online_retail_eda.py
-```
